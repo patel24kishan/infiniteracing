@@ -1,7 +1,7 @@
 # Infinite Racing
  
 ## Step to Follow:
-- got to Library\il2cpp_cache\linkresult_AF3F31465566A62D9D587C2F049ED788
+- Before using it with Unity, got to Library\il2cpp_cache\linkresult_AF3F31465566A62D9D587C2F049ED788
 - unzip to "build.zip"
 
 ### Useful URLS:
